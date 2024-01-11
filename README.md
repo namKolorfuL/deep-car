@@ -20,14 +20,5 @@ Explain how to run the project and any scripts included.
 ## Research Paper
 For a detailed explanation and in-depth analysis, refer to our paper:
 
-`@article{author2022lane,
-  title={Lane Keeping and Navigation of a Self-driving RC Car Based on Image Semantic Segmentation and GPS Fusion},
-  author={Author's Name},
-  journal={Journal Name},
-  volume={xx},
-  number={xx},
-  pages={xx--xx},
-  year={2022},
-  publisher={IEEE},
-  doi={10.1109/GTSD54989.2022.9989054}
-}>`
+`[1]“Lane Keeping and Navigation of a Self-driving RC Car Based on Image Semantic Segmentation and GPS Fusion | IEEE Conference Publication | IEEE Xplore,” ieeexplore.ieee.org. https://ieeexplore.ieee.org/document/9989054 (accessed Jan. 11, 2024).`
+‌
